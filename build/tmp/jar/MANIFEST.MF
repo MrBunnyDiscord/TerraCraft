@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: TerraCraft
+Implementation-Version: 1.0-SNAPSHOT
+Specification-Vendor: terracraftsareus
+Specification-Title: terracraft
+Implementation-Timestamp: 2022-08-03T15:47:55-0400
+Specification-Version: 1
+Implementation-Vendor: terracraftsareus
+
